@@ -1,4 +1,4 @@
-# *CasPro-ESM2: A Tool for Identifying Cas Proteins Based on the ESM-2 Protein Language Model
+# *CasPro-ESM2*: A Tool for Identifying Cas Proteins Based on the ESM-2 Protein Language Model
 
 ## Introduction
 
